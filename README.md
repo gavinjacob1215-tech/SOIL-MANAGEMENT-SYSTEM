@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Soil Review
 
 A platform to upload, share, and review soil test data — find out what plants thrive and what each soil is best for.
